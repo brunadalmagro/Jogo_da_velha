@@ -29,7 +29,9 @@ python jogo_da_velha.py`
 > O jogo será exibido em uma janela gráfica. Clique nos botões para fazer suas jogadas.
 
 #Contribuição
+
 Contribuições são bem-vindas! Se você encontrar algum problema no código ou tiver sugestões de melhorias, fique à vontade para abrir uma issue ou enviar um pull request.
 
 #Licença
+
 Este projeto está licenciado sob a licença MIT.
